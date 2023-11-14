@@ -1,1 +1,0 @@
-![28bc25d86cfb8422b01fcbacc995041](image/Logistic回归模型求解过程/28bc25d86cfb8422b01fcbacc995041.jpg)
